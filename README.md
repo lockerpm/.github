@@ -1,5 +1,3 @@
-## About
-
 ![Locker Password Manager](locker.png)
 
 Locker is a password manager that goes beyond the mere concept of password management. Locker stores your sensitive data, logs you into your favourite sites, scans for data breaches, and more. Every feature in Locker is built on the foundation of privacy and transparency to ensure the highest security for users.
